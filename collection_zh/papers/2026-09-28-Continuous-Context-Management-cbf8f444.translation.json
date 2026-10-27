@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2026-09-28-Continuous-Context-Management-cbf8f444.md",
+  "file": "papers/2026-09-28-Continuous-Context-Management-cbf8f444.md",
+  "source_sha256": "f61a0fc81d538fff7a3aec7f5fceb4d1b01f5c32b3dc4248b4bb03e4d04e8c71",
+  "output_sha256": "bb24ff2eb6775c641ea07208496fd176933c550635469a5ebbde66e09e0b2d72",
+  "title": "持续上下文管理",
+  "original_title": "Continuous Context Management",
+  "kind": "paper",
+  "date": "2026-09-28",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2609.35540",
+  "chunks": 30,
+  "protected_spans": 480,
+  "source_characters": 93974,
+  "translated_characters": 54684,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:27:24.497193+00:00"
+}

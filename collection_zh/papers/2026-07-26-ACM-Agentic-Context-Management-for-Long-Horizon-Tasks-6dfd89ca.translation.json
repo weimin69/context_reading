@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2026-07-26-ACM-Agentic-Context-Management-for-Long-Horizon-Tasks-6dfd89ca.md",
+  "file": "papers/2026-07-26-ACM-Agentic-Context-Management-for-Long-Horizon-Tasks-6dfd89ca.md",
+  "source_sha256": "c41212144540bf767c79b060166d3d8218c57ad078644facf8b4769c2cbbe820",
+  "output_sha256": "c6b3d356cc3cc300af07a847213eba74a21579489836c4bceb5a07cf8ee1b959",
+  "title": "ACM：面向长程任务的智能体上下文管理",
+  "original_title": "ACM: Agentic Context Management for Long Horizon Tasks",
+  "kind": "paper",
+  "date": "2026-07-26",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2607.23809",
+  "chunks": 39,
+  "protected_spans": 413,
+  "source_characters": 116007,
+  "translated_characters": 72302,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:28:21.123462+00:00"
+}

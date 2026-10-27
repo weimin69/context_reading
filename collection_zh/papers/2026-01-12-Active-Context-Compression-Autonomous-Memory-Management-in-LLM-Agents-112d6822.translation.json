@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2026-01-12-Active-Context-Compression-Autonomous-Memory-Management-in-LLM-Agents-112d6822.md",
+  "file": "papers/2026-01-12-Active-Context-Compression-Autonomous-Memory-Management-in-LLM-Agents-112d6822.md",
+  "source_sha256": "799e13dc9a9e899671bba03589f07dc652352b07fb957ee89da569de57033966",
+  "output_sha256": "a318c2b92fc607e7be953c873257c5a0ef4ccd312efacbdb6c2dab9c10f62c81",
+  "title": "主动上下文压缩：大语言模型智能体的自主记忆管理",
+  "original_title": "Active Context Compression: Autonomous Memory Management in LLM Agents",
+  "kind": "paper",
+  "date": "2026-01-12",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2601.07190",
+  "chunks": 7,
+  "protected_spans": 53,
+  "source_characters": 20383,
+  "translated_characters": 8833,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:28:11.516521+00:00"
+}

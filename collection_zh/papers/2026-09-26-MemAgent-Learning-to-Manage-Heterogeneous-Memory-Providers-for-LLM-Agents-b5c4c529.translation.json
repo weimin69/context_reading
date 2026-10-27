@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2026-09-26-MemAgent-Learning-to-Manage-Heterogeneous-Memory-Providers-for-LLM-Agents-b5c4c529.md",
+  "file": "papers/2026-09-26-MemAgent-Learning-to-Manage-Heterogeneous-Memory-Providers-for-LLM-Agents-b5c4c529.md",
+  "source_sha256": "f3b47ab36841ea132d156118325eabe75198b04688d69cd9ab2f987cff7d9c30",
+  "output_sha256": "c5af32ee30177016a0ef42bf4519c1f6eb1f1b95387b8263800325e0cd8d3cf0",
+  "title": "MemAgent：学习为大语言模型智能体管理异构记忆系统",
+  "original_title": "MemAgent: Learning to Manage Heterogeneous Memory Providers for LLM Agents",
+  "kind": "paper",
+  "date": "2026-09-26",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2609.32521",
+  "chunks": 42,
+  "protected_spans": 477,
+  "source_characters": 128974,
+  "translated_characters": 69632,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:27:34.803009+00:00"
+}

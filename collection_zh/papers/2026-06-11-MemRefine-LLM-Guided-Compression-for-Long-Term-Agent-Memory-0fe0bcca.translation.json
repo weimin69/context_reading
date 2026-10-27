@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2026-06-11-MemRefine-LLM-Guided-Compression-for-Long-Term-Agent-Memory-0fe0bcca.md",
+  "file": "papers/2026-06-11-MemRefine-LLM-Guided-Compression-for-Long-Term-Agent-Memory-0fe0bcca.md",
+  "source_sha256": "6855793805b5e4e32b43ba1fe75781155c56e1abf1e5fe588205cfca2cbddb99",
+  "output_sha256": "c6a31a6d63e70d158d0dc7140711381f94433bd81e63bf9da6f24ad3cf9bee0e",
+  "title": "MemRefine：大语言模型引导的智能体长期记忆压缩",
+  "original_title": "MemRefine: LLM-Guided Compression for Long-Term Agent Memory",
+  "kind": "paper",
+  "date": "2026-06-11",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2606.13177",
+  "chunks": 22,
+  "protected_spans": 188,
+  "source_characters": 66576,
+  "translated_characters": 33923,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:27:59.101918+00:00"
+}

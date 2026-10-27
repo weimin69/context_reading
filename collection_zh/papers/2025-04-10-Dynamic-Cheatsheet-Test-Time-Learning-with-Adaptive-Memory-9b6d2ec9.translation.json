@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2025-04-10-Dynamic-Cheatsheet-Test-Time-Learning-with-Adaptive-Memory-9b6d2ec9.md",
+  "file": "papers/2025-04-10-Dynamic-Cheatsheet-Test-Time-Learning-with-Adaptive-Memory-9b6d2ec9.md",
+  "source_sha256": "2ad48ce1533c7ed825152bccb5a47cb28db569f9f2f1853aa57403b626fc36e1",
+  "output_sha256": "4c6708f2af9b2d8809e3f2dab063385a3114e9a9de3148909337198570044c23",
+  "title": "动态速查表：利用自适应记忆进行测试时学习",
+  "original_title": "Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory",
+  "kind": "paper",
+  "date": "2025-04-10",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2504.07952",
+  "chunks": 23,
+  "protected_spans": 181,
+  "source_characters": 68868,
+  "translated_characters": 32557,
+  "engine": "google-zh-CN-v5",
+  "format_version": 1,
+  "completed_at": "2026-10-26T11:26:02.759035+00:00"
+}

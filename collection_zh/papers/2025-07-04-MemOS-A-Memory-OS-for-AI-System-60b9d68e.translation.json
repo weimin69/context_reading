@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2025-07-04-MemOS-A-Memory-OS-for-AI-System-60b9d68e.md",
+  "file": "papers/2025-07-04-MemOS-A-Memory-OS-for-AI-System-60b9d68e.md",
+  "source_sha256": "ae104ced0925cfd16308b0148083a11fcbe958cd158350df49c480fcf05f04f3",
+  "output_sha256": "4acafd8cf71cb90937e8ef33e4ee549fba55664d1b8ae9a8860e4c4079cbd180",
+  "title": "MemOS：面向 AI 系统的记忆操作系统",
+  "original_title": "MemOS: A Memory OS for AI System",
+  "kind": "paper",
+  "date": "2025-07-04",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2507.03724",
+  "chunks": 42,
+  "protected_spans": 265,
+  "source_characters": 132173,
+  "translated_characters": 56844,
+  "engine": "google-zh-CN-v5",
+  "format_version": 1,
+  "completed_at": "2026-10-26T11:25:34.979690+00:00"
+}

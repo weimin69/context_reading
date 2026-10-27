@@ -1,0 +1,19 @@
+{
+  "source_file": "blogs/2025-09-29-Effective-context-engineering-for-AI-agents-126e07cf.md",
+  "file": "blogs/2025-09-29-Effective-context-engineering-for-AI-agents-126e07cf.md",
+  "source_sha256": "64bd62aee530eb3ea55a313dc73b7bd65a4516707b4cebdc869d715beb67443f",
+  "output_sha256": "c222b6cc740aa375f0682f27a1ae6a954ac16e2eca5a8f4faaa92131844f8197",
+  "title": "AI 智能体的高效上下文工程",
+  "original_title": "Effective context engineering for AI agents",
+  "kind": "blog",
+  "date": "2025-09-29",
+  "source_status": "article_html",
+  "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+  "chunks": 8,
+  "protected_spans": 38,
+  "source_characters": 23325,
+  "translated_characters": 8977,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:28:23.341283+00:00"
+}

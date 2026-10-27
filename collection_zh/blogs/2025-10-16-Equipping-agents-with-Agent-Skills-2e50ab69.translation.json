@@ -1,0 +1,19 @@
+{
+  "source_file": "blogs/2025-10-16-Equipping-agents-with-Agent-Skills-2e50ab69.md",
+  "file": "blogs/2025-10-16-Equipping-agents-with-Agent-Skills-2e50ab69.md",
+  "source_sha256": "0427d26835f8a82da8a4d47188fbda38c0f6bd271c021170e29fdf719208fad8",
+  "output_sha256": "9b077cc1926318bad2a5b1e64b999d06ed1053d3af0a05564c8a9b9fe97fa2ec",
+  "title": "用 Agent Skills 为智能体赋予技能",
+  "original_title": "Equipping agents with Agent Skills",
+  "kind": "blog",
+  "date": "2025-10-16",
+  "source_status": "article_html",
+  "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+  "chunks": 4,
+  "protected_spans": 45,
+  "source_characters": 12134,
+  "translated_characters": 5641,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:28:18.810407+00:00"
+}

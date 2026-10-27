@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2026-03-08-Memory-for-Autonomous-LLM-Agents-Mechanisms-Evaluation-and-Emerging-Frontiers-94ecb36c.md",
+  "file": "papers/2026-03-08-Memory-for-Autonomous-LLM-Agents-Mechanisms-Evaluation-and-Emerging-Frontiers-94ecb36c.md",
+  "source_sha256": "6ebd5ca3ba97dd4559b186a6b4546a9fc7c3703f73eda2932ad347b6a7f43d18",
+  "output_sha256": "5861ae0920713c60e621739e38dfc560efc8e739cda61064848b35d5a7c02a1f",
+  "title": "自主大语言模型智能体的记忆：机制、评估与新兴前沿",
+  "original_title": "Memory for Autonomous LLM Agents:Mechanisms, Evaluation, and Emerging Frontiers",
+  "kind": "paper",
+  "date": "2026-03-08",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2603.07670",
+  "chunks": 24,
+  "protected_spans": 174,
+  "source_characters": 73182,
+  "translated_characters": 31412,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:28:40.195479+00:00"
+}

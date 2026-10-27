@@ -1,0 +1,814 @@
+{
+  "start": "2024-10-26",
+  "end": "2026-10-26",
+  "items": [
+    {
+      "kind": "blog",
+      "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
+      "topics": [
+        "上下文选择",
+        "检索"
+      ],
+      "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
+      "date": "2026-10-23",
+      "date_basis": "JSON-LD datePublished",
+      "authors": [],
+      "status": "article_html",
+      "content_url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
+      "retrieved_at": "2026-10-26T09:28:02.471505+00:00",
+      "characters": 19141,
+      "notes": [],
+      "file": "blogs/2026-10-23-Context-Engineering-Agent-Memory-for-AI-Agents-Starts-with-Retrieval-b0133c74.md"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+      "topics": [
+        "上下文卸载",
+        "压缩",
+        "长期记忆"
+      ],
+      "title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+      "date": "2026-10-14",
+      "date_basis": "JSON-LD datePublished",
+      "authors": [],
+      "status": "article_html",
+      "content_url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+      "retrieved_at": "2026-10-26T09:27:58.676918+00:00",
+      "characters": 16377,
+      "notes": [],
+      "file": "blogs/2026-10-14-Context-Engineering-with-Deep-Agents-How-To-Remember-Without-Keeping-Everything-In-Context-eeb5997d.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2609.35540",
+      "topics": [
+        "持续上下文管理",
+        "强化学习"
+      ],
+      "title": "Continuous Context Management",
+      "date": "2026-09-28",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Hoy, William",
+        "Fan, Jingxuan",
+        "Celik, Nurcin",
+        "Pan, Xu"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2609.35540",
+      "retrieved_at": "2026-10-26T09:33:42.159450+00:00",
+      "characters": 91883,
+      "notes": [],
+      "file": "papers/2026-09-28-Continuous-Context-Management-cbf8f444.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2609.32521",
+      "topics": [
+        "MemAgent",
+        "记忆路由"
+      ],
+      "title": "MemAgent: Learning to Manage Heterogeneous Memory Providers for LLM Agents",
+      "date": "2026-09-26",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Wei, Yongxian",
+        "Zhao, Yilin",
+        "Cheng, Runxi",
+        "Chen, Xinrui",
+        "Yuan, Chun",
+        "Wang, Yaoru",
+        "Yan, Jiahong",
+        "Li, Dian"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2609.32521",
+      "retrieved_at": "2026-10-26T09:38:54.442849+00:00",
+      "characters": 127060,
+      "notes": [],
+      "file": "papers/2026-09-26-MemAgent-Learning-to-Manage-Heterogeneous-Memory-Providers-for-LLM-Agents-b5c4c529.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2608.06503",
+      "topics": [
+        "压缩可靠性",
+        "长程Agent"
+      ],
+      "title": "Towards Reliable Context Compression for Long-Horizon Agents: An Empirical Study of Execution Instability",
+      "date": "2026-08-06",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Min, Guanghui",
+        "Wu, Liang",
+        "Darbari, Mayank",
+        "Chen, Chen",
+        "Hong, Liangjie"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2608.06503",
+      "retrieved_at": "2026-10-26T09:35:23.034501+00:00",
+      "characters": 129123,
+      "notes": [],
+      "file": "papers/2026-08-06-Towards-Reliable-Context-Compression-for-Long-Horizon-Agents-An-Empirical-Study-of-Execution-Instabi-d88aafae.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2609.26121",
+      "topics": [
+        "工具输出压缩",
+        "可恢复上下文"
+      ],
+      "title": "DTOC: Dynamic Tool Output Compression for Adaptive Context Management in AI Agents",
+      "date": "2026-08-06",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Chaturvedi, Abhay",
+        "Bhattacharya, Shreya",
+        "Gopalkrishnan, Rashmika",
+        "van der Putten, Peter"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2609.26121",
+      "retrieved_at": "2026-10-26T09:34:14.635273+00:00",
+      "characters": 47680,
+      "notes": [],
+      "file": "papers/2026-08-06-DTOC-Dynamic-Tool-Output-Compression-for-Adaptive-Context-Management-in-AI-Agents-3abd6dd0.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2607.23809",
+      "topics": [
+        "Agentic Context Management",
+        "长程任务"
+      ],
+      "title": "ACM: Agentic Context Management for Long Horizon Tasks",
+      "date": "2026-07-26",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Li, Xiaochuan",
+        "Ming, Ryan",
+        "Chu, Meng",
+        "Shao, Shuai",
+        "Jin, Rong",
+        "Xiong, Chenyan"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2607.23809",
+      "retrieved_at": "2026-10-26T09:35:56.721089+00:00",
+      "characters": 114408,
+      "notes": [],
+      "file": "papers/2026-07-26-ACM-Agentic-Context-Management-for-Long-Horizon-Tasks-6dfd89ca.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2607.21503",
+      "topics": [
+        "上下文生命周期",
+        "压缩",
+        "成本"
+      ],
+      "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
+      "date": "2026-07-23",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Dadhich, Gaurav"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2607.21503",
+      "retrieved_at": "2026-10-26T09:32:05.491297+00:00",
+      "characters": 65762,
+      "notes": [],
+      "file": "papers/2026-07-23-Agentic-Context-Management-Solving-Agent-Memory-and-Cost-by-Treating-Them-as-Lifecycle-and-Architect-d1475184.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2606.13177",
+      "topics": [
+        "记忆压缩",
+        "存储预算"
+      ],
+      "title": "MemRefine: LLM-Guided Compression for Long-Term Agent Memory",
+      "date": "2026-06-11",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Kim, Minjae",
+        "Baek, Jinheon",
+        "Jeong, Soyeong",
+        "Hwang, Sung Ju"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2606.13177",
+      "retrieved_at": "2026-10-26T09:34:47.220090+00:00",
+      "characters": 64965,
+      "notes": [],
+      "file": "papers/2026-06-11-MemRefine-LLM-Guided-Compression-for-Long-Term-Agent-Memory-0fe0bcca.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2605.12493",
+      "topics": [
+        "长期记忆评估",
+        "LongMemEval-V2"
+      ],
+      "title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
+      "date": "2026-05-12",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Wu, Di",
+        "Ji, Zixiang",
+        "Kawatkar, Asmi",
+        "Kwan, Bryan",
+        "Gu, Jia-Chen",
+        "Peng, Nanyun",
+        "Chang, Kai-Wei"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2605.12493",
+      "retrieved_at": "2026-10-26T09:36:31.340418+00:00",
+      "characters": 109282,
+      "notes": [],
+      "file": "papers/2026-05-12-LongMemEval-V2-Evaluating-Long-Term-Agent-Memory-Toward-Experienced-Colleagues-1c5d49ed.md"
+    },
+    {
+      "kind": "blog",
+      "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/",
+      "date": "2026-04-21",
+      "topics": [
+        "ReasoningBank",
+        "经验记忆"
+      ],
+      "title": "ReasoningBank: Enabling agents to learn from experience",
+      "date_basis": "curated source date (verified from source/search)",
+      "authors": [],
+      "status": "article_html",
+      "content_url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/",
+      "retrieved_at": "2026-10-26T09:41:28.752844+00:00",
+      "characters": 11746,
+      "notes": [],
+      "file": "blogs/2026-04-21-ReasoningBank-Enabling-agents-to-learn-from-experience-15e0d38d.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2603.09619",
+      "topics": [
+        "上下文工程",
+        "多Agent架构"
+      ],
+      "title": "Context Engineering: From Prompts to Corporate Multi-Agent Architecture",
+      "date": "2026-03-10",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Vishnyakova, Vera V."
+      ],
+      "status": "abstract_only",
+      "content_url": "https://arxiv.org/abs/2603.09619",
+      "retrieved_at": "2026-10-26T09:33:07.985580+00:00",
+      "characters": 1777,
+      "notes": [
+        "HTML full text unavailable: HTTPError: 404 Client Error: Not Found for url: https://arxiv.org/html/2603.09619"
+      ],
+      "file": "papers/2026-03-10-Context-Engineering-From-Prompts-to-Corporate-Multi-Agent-Architecture-a30ee011.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2603.07670",
+      "topics": [
+        "Agent记忆综述",
+        "评估"
+      ],
+      "title": "Memory for Autonomous LLM Agents:Mechanisms, Evaluation, and Emerging Frontiers",
+      "date": "2026-03-08",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Du, Pengfei"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2603.07670",
+      "retrieved_at": "2026-10-26T09:32:36.970490+00:00",
+      "characters": 71148,
+      "notes": [],
+      "file": "papers/2026-03-08-Memory-for-Autonomous-LLM-Agents-Mechanisms-Evaluation-and-Emerging-Frontiers-94ecb36c.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2601.07190",
+      "topics": [
+        "主动上下文压缩",
+        "自主记忆管理"
+      ],
+      "title": "Active Context Compression: Autonomous Memory Management in LLM Agents",
+      "date": "2026-01-12",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Verma, Nikhil"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2601.07190",
+      "retrieved_at": "2026-10-26T09:31:32.191304+00:00",
+      "characters": 18595,
+      "notes": [],
+      "file": "papers/2026-01-12-Active-Context-Compression-Autonomous-Memory-Management-in-LLM-Agents-112d6822.md"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.philschmid.de/context-engineering-part-2",
+      "topics": [
+        "Context rot",
+        "上下文管理"
+      ],
+      "title": "Context Engineering for AI Agents: Part 2",
+      "date": "2025-12-04",
+      "date_basis": "page metadata: article:published_time",
+      "authors": [],
+      "status": "article_html",
+      "content_url": "https://www.philschmid.de/context-engineering-part-2",
+      "retrieved_at": "2026-10-26T09:28:07.044765+00:00",
+      "characters": 9838,
+      "notes": [],
+      "file": "blogs/2025-12-04-Context-Engineering-for-AI-Agents-Part-2-4fad5189.md"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "date": "2025-11-26",
+      "topics": [
+        "跨会话状态",
+        "长程任务"
+      ],
+      "title": "Effective harnesses for long-running agents",
+      "date_basis": "page metadata: article:published_time",
+      "authors": [],
+      "status": "article_html",
+      "content_url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "retrieved_at": "2026-10-26T09:26:51.266557+00:00",
+      "characters": 14060,
+      "notes": [],
+      "file": "blogs/2025-11-26-Effective-harnesses-for-long-running-agents-7f7a70a6.md"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "date": "2025-11-24",
+      "topics": [
+        "工具检索",
+        "工具上下文"
+      ],
+      "title": "Introducing advanced tool use for Claude",
+      "date_basis": "page metadata: article:published_time",
+      "authors": [],
+      "status": "article_html",
+      "content_url": "https://www.anthropic.com/engineering/advanced-tool-use",
+      "retrieved_at": "2026-10-26T09:27:40.042282+00:00",
+      "characters": 25648,
+      "notes": [],
+      "file": "blogs/2025-11-24-Introducing-advanced-tool-use-for-Claude-eafa6e2f.md"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+      "date": "2025-11-04",
+      "topics": [
+        "工具输出",
+        "按需加载",
+        "上下文效率"
+      ],
+      "title": "Code execution with MCP for efficient agents",
+      "date_basis": "page metadata: article:published_time",
+      "authors": [],
+      "status": "article_html",
+      "content_url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+      "retrieved_at": "2026-10-26T09:27:26.159318+00:00",
+      "characters": 14736,
+      "notes": [],
+      "file": "blogs/2025-11-04-Code-execution-with-MCP-for-efficient-agents-9b88bfec.md"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+      "date": "2025-10-16",
+      "topics": [
+        "渐进披露",
+        "技能加载"
+      ],
+      "title": "Equipping agents with Agent Skills",
+      "date_basis": "page metadata: article:published_time",
+      "authors": [],
+      "status": "article_html",
+      "content_url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
+      "retrieved_at": "2026-10-26T09:27:57.078635+00:00",
+      "characters": 11566,
+      "notes": [],
+      "file": "blogs/2025-10-16-Equipping-agents-with-Agent-Skills-2e50ab69.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2510.04618",
+      "topics": [
+        "ACE",
+        "自演化上下文"
+      ],
+      "note": "研究如何将上下文维护为持续更新的经验手册；关注生成、反思、整理的分工。",
+      "title": "Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models",
+      "date": "2025-10-06",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Zhang, Qizheng",
+        "Hu, Changran",
+        "Upasani, Shubhangi",
+        "Ma, Boyuan",
+        "Hong, Fenglu",
+        "Kamanuru, Vamsidhar",
+        "Rainton, Jay",
+        "Wu, Chen",
+        "Ji, Mengmeng",
+        "Li, Hanchen",
+        "Thakker, Urmish",
+        "Zou, James",
+        "Olukotun, Kunle"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2510.04618",
+      "retrieved_at": "2026-10-26T09:29:01.138329+00:00",
+      "characters": 90042,
+      "notes": [],
+      "file": "papers/2025-10-06-Agentic-Context-Engineering-Evolving-Contexts-for-Self-Improving-Language-Models-f789bce6.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2509.25140",
+      "topics": [
+        "ReasoningBank",
+        "推理记忆",
+        "经验学习"
+      ],
+      "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory",
+      "date": "2025-09-29",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Ouyang, Siru",
+        "Yan, Jun",
+        "Hsu, I-Hung",
+        "Chen, Yanfei",
+        "Jiang, Ke",
+        "Wang, Zifeng",
+        "Han, Rujun",
+        "Le, Long T.",
+        "Daruki, Samira",
+        "Tang, Xiangru",
+        "Tirumalashetty, Vishy",
+        "Lee, George",
+        "Rofouei, Mahsan",
+        "Lin, Hangfei",
+        "Han, Jiawei",
+        "Lee, Chen-Yu",
+        "Pfister, Tomas"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2509.25140",
+      "retrieved_at": "2026-10-26T09:37:36.308197+00:00",
+      "characters": 81424,
+      "notes": [],
+      "file": "papers/2025-09-29-ReasoningBank-Scaling-Agent-Self-Evolving-with-Reasoning-Memory-24293fd5.md"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+      "date": "2025-09-29",
+      "topics": [
+        "上下文工程",
+        "压缩",
+        "隔离"
+      ],
+      "note": "从上下文预算、按需检索、压缩和笔记组织理解长程 Agent 的信息管理。",
+      "title": "Effective context engineering for AI agents",
+      "date_basis": "page metadata: article:published_time",
+      "authors": [],
+      "status": "article_html",
+      "content_url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
+      "retrieved_at": "2026-10-26T09:26:36.288736+00:00",
+      "characters": 22770,
+      "notes": [],
+      "file": "blogs/2025-09-29-Effective-context-engineering-for-AI-agents-126e07cf.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2509.13313",
+      "topics": [
+        "ReSum",
+        "上下文摘要",
+        "长程搜索"
+      ],
+      "title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+      "date": "2025-09-16",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Wu, Xixi",
+        "Li, Kuan",
+        "Zhao, Yida",
+        "Zhang, Liwen",
+        "Ou, Litu",
+        "Yin, Huifeng",
+        "Zhang, Zhongwang",
+        "Yu, Xinmiao",
+        "Zhang, Dingchu",
+        "Jiang, Yong",
+        "Xie, Pengjun",
+        "Huang, Fei",
+        "Cheng, Minhao",
+        "Wang, Shuai",
+        "Cheng, Hong",
+        "Zhou, Jingren"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2509.13313",
+      "retrieved_at": "2026-10-26T09:37:04.255922+00:00",
+      "characters": 105028,
+      "notes": [],
+      "file": "papers/2025-09-16-ReSum-Unlocking-Long-Horizon-Search-Intelligence-via-Context-Summarization-87a36ffe.md"
+    },
+    {
+      "kind": "blog",
+      "url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
+      "date": "2025-07-18",
+      "topics": [
+        "KV-cache",
+        "文件系统记忆",
+        "可恢复压缩"
+      ],
+      "note": "关注缓存稳定性、外置文件、任务清单和错误轨迹在生产 Agent 中的作用。",
+      "title": "Context Engineering for AI Agents: Lessons from Building Manus",
+      "date_basis": "curated source date (search verified)",
+      "authors": [],
+      "status": "article_html",
+      "content_url": "https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus",
+      "retrieved_at": "2026-10-26T09:26:45.571740+00:00",
+      "characters": 20112,
+      "notes": [],
+      "file": "blogs/2025-07-18-Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus-13ffd54f.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2507.13334",
+      "topics": [
+        "上下文工程综述"
+      ],
+      "title": "A Survey of Context Engineering for Large Language Models",
+      "date": "2025-07-17",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Mei, Lingrui",
+        "Yao, Jiayu",
+        "Ge, Yuyao",
+        "Wang, Yiwei",
+        "Bi, Baolong",
+        "Cai, Yujun",
+        "Liu, Jiazhi",
+        "Li, Mingyu",
+        "Li, Zhong-Zhi",
+        "Zhang, Duzhen",
+        "Zhou, Chenlin",
+        "Mao, Jiayi",
+        "Xia, Tianze",
+        "Guo, Jiafeng",
+        "Liu, Shenghua"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2507.13334",
+      "retrieved_at": "2026-10-26T09:28:30.021694+00:00",
+      "characters": 264690,
+      "notes": [],
+      "file": "papers/2025-07-17-A-Survey-of-Context-Engineering-for-Large-Language-Models-4d499fd7.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2507.03724",
+      "topics": [
+        "MemOS",
+        "记忆操作系统"
+      ],
+      "title": "MemOS: A Memory OS for AI System",
+      "date": "2025-07-04",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Li, Zhiyu",
+        "Xi, Chenyang",
+        "Li, Chunyu",
+        "Chen, Ding",
+        "Chen, Boyu",
+        "Song, Shichao",
+        "Niu, Simin",
+        "Wang, Hanyu",
+        "Yang, Jiawei",
+        "Tang, Chen",
+        "Yu, Qingchen",
+        "Zhao, Jihao",
+        "Wang, Yezhaohui",
+        "Liu, Peng",
+        "Lin, Zehao",
+        "Wang, Pengyuan",
+        "Huo, Jiahao",
+        "Chen, Tianyi",
+        "Chen, Kai",
+        "Li, Kehang",
+        "Tao, Zhen",
+        "Lai, Huayi",
+        "Wu, Hao",
+        "Tang, Bo",
+        "Wang, Zhengren",
+        "Fan, Zhaoxin",
+        "Zhang, Ningyu",
+        "Zhang, Linfeng",
+        "Yan, Junchi",
+        "Yang, Mingchuan",
+        "Xu, Tong",
+        "Xu, Wei",
+        "Chen, Huajun",
+        "Wang, Haofen",
+        "Yang, Hongkang",
+        "Zhang, Wentao",
+        "Xu, Zhi-Qin John",
+        "Chen, Siheng",
+        "Xiong, Feiyu"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2507.03724",
+      "retrieved_at": "2026-10-26T09:40:05.311524+00:00",
+      "characters": 129450,
+      "notes": [],
+      "file": "papers/2025-07-04-MemOS-A-Memory-OS-for-AI-System-60b9d68e.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2507.02259",
+      "topics": [
+        "MemAgent",
+        "强化学习",
+        "压缩记忆"
+      ],
+      "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+      "date": "2025-07-03",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Yu, Hongli",
+        "Chen, Tinghong",
+        "Feng, Jiangtao",
+        "Chen, Jiangjie",
+        "Dai, Weinan",
+        "Yu, Qiying",
+        "Zhang, Ya-Qin",
+        "Ma, Wei-Ying",
+        "Liu, Jingjing",
+        "Wang, Mingxuan",
+        "Zhou, Hao"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2507.02259",
+      "retrieved_at": "2026-10-26T09:38:09.586112+00:00",
+      "characters": 60613,
+      "notes": [],
+      "file": "papers/2025-07-03-MemAgent-Reshaping-Long-Context-LLM-with-Multi-Conv-RL-based-Memory-Agent-a3184b5b.md"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.langchain.com/blog/context-engineering-for-agents",
+      "date": "2025-07-02",
+      "topics": [
+        "上下文工程",
+        "写入",
+        "选择",
+        "压缩",
+        "隔离"
+      ],
+      "title": "Context Engineering",
+      "date_basis": "JSON-LD datePublished",
+      "authors": [],
+      "status": "article_html",
+      "content_url": "https://www.langchain.com/blog/context-engineering-for-agents",
+      "retrieved_at": "2026-10-26T09:26:38.743473+00:00",
+      "characters": 30299,
+      "notes": [],
+      "file": "blogs/2025-07-02-Context-Engineering-19a502d8.md"
+    },
+    {
+      "kind": "blog",
+      "url": "https://www.anthropic.com/research/multi-agent-research-system",
+      "date": "2025-06-13",
+      "topics": [
+        "上下文隔离",
+        "多Agent",
+        "外部记忆"
+      ],
+      "title": "How we built our multi-agent research system",
+      "date_basis": "page metadata: article:published_time",
+      "authors": [],
+      "status": "article_html",
+      "content_url": "https://www.anthropic.com/research/multi-agent-research-system",
+      "retrieved_at": "2026-10-26T09:41:27.072516+00:00",
+      "characters": 27444,
+      "notes": [],
+      "file": "blogs/2025-06-13-How-we-built-our-multi-agent-research-system-ea7cfd31.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2504.19413",
+      "topics": [
+        "Mem0",
+        "长期记忆",
+        "提取与整合"
+      ],
+      "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+      "date": "2025-04-28",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Chhikara, Prateek",
+        "Khant, Dev",
+        "Aryan, Saket",
+        "Singh, Taranjeet",
+        "Yadav, Deshraj"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2504.19413",
+      "retrieved_at": "2026-10-26T09:30:06.443626+00:00",
+      "characters": 70247,
+      "notes": [],
+      "file": "papers/2025-04-28-Mem0-Building-Production-Ready-AI-Agents-with-Scalable-Long-Term-Memory-3c1c06b0.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2504.07952",
+      "topics": [
+        "Dynamic Cheatsheet",
+        "测试时学习"
+      ],
+      "title": "Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory",
+      "date": "2025-04-10",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Suzgun, Mirac",
+        "Yuksekgonul, Mert",
+        "Bianchi, Federico",
+        "Jurafsky, Dan",
+        "Zou, James"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2504.07952",
+      "retrieved_at": "2026-10-26T09:30:59.592168+00:00",
+      "characters": 66563,
+      "notes": [],
+      "file": "papers/2025-04-10-Dynamic-Cheatsheet-Test-Time-Learning-with-Adaptive-Memory-9b6d2ec9.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2502.12110",
+      "topics": [
+        "A-MEM",
+        "结构化记忆",
+        "记忆演化"
+      ],
+      "title": "A-MEM: Agentic Memory for LLM Agents",
+      "date": "2025-02-17",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Xu, Wujiang",
+        "Liang, Zujie",
+        "Mei, Kai",
+        "Gao, Hang",
+        "Tan, Juntao",
+        "Zhang, Yongfeng"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2502.12110",
+      "retrieved_at": "2026-10-26T09:29:33.990628+00:00",
+      "characters": 90727,
+      "notes": [],
+      "file": "papers/2025-02-17-A-MEM-Agentic-Memory-for-LLM-Agents-e1a73a08.md"
+    },
+    {
+      "kind": "paper",
+      "url": "https://arxiv.org/abs/2412.15266",
+      "topics": [
+        "结构化记忆",
+        "Agent记忆"
+      ],
+      "title": "On the Structural Memory of LLM Agents",
+      "date": "2024-12-17",
+      "date_basis": "page metadata: citation_date",
+      "authors": [
+        "Zeng, Ruihong",
+        "Fang, Jinyuan",
+        "Liu, Siwei",
+        "Meng, Zaiqiao"
+      ],
+      "status": "full_text_html",
+      "content_url": "https://arxiv.org/html/2412.15266",
+      "retrieved_at": "2026-10-26T09:39:26.135951+00:00",
+      "characters": 42418,
+      "notes": [],
+      "file": "papers/2024-12-17-On-the-Structural-Memory-of-LLM-Agents-93f41f99.md"
+    }
+  ],
+  "events": [],
+  "generated_at": "2026-10-26T09:41:28.753377+00:00"
+}

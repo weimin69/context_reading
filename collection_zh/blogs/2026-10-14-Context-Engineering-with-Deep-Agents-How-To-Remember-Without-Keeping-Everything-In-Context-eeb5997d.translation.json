@@ -1,0 +1,19 @@
+{
+  "source_file": "blogs/2026-10-14-Context-Engineering-with-Deep-Agents-How-To-Remember-Without-Keeping-Everything-In-Context-eeb5997d.md",
+  "file": "blogs/2026-10-14-Context-Engineering-with-Deep-Agents-How-To-Remember-Without-Keeping-Everything-In-Context-eeb5997d.md",
+  "source_sha256": "8e9cff77686fb25130d38d02cf5d421f2032fb572ea17f45309af3fbfff2d351",
+  "output_sha256": "4da9522d927f247f062158368e6bcc51254115a350787d6bb2ea85cb8025c1c9",
+  "title": "Deep Agents 上下文工程：如何在不把一切塞进上下文的情况下保留记忆",
+  "original_title": "Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context",
+  "kind": "blog",
+  "date": "2026-10-14",
+  "source_status": "article_html",
+  "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
+  "chunks": 5,
+  "protected_spans": 52,
+  "source_characters": 16962,
+  "translated_characters": 9112,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:26:26.930993+00:00"
+}

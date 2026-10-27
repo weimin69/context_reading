@@ -1,0 +1,19 @@
+{
+  "source_file": "blogs/2026-10-23-Context-Engineering-Agent-Memory-for-AI-Agents-Starts-with-Retrieval-b0133c74.md",
+  "file": "blogs/2026-10-23-Context-Engineering-Agent-Memory-for-AI-Agents-Starts-with-Retrieval-b0133c74.md",
+  "source_sha256": "58fe937b50ba9f53c41ef7d8025b57284f8ce26ba359335d9aef0a19d3d13bf4",
+  "output_sha256": "b3f93353b33de084e4ac762b13696439ae8ca517b38b2a7494639f99bd3ecb3c",
+  "title": "智能体上下文工程（智能体记忆）从检索开始",
+  "original_title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
+  "kind": "blog",
+  "date": "2026-10-23",
+  "source_status": "article_html",
+  "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
+  "chunks": 5,
+  "protected_spans": 76,
+  "source_characters": 19725,
+  "translated_characters": 11238,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:26:28.558243+00:00"
+}

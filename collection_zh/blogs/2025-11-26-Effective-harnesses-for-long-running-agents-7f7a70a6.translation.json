@@ -1,0 +1,19 @@
+{
+  "source_file": "blogs/2025-11-26-Effective-harnesses-for-long-running-agents-7f7a70a6.md",
+  "file": "blogs/2025-11-26-Effective-harnesses-for-long-running-agents-7f7a70a6.md",
+  "source_sha256": "7b17a32de77504b309276ed410114e7a5e21e0d11395ffa8778d5049aafaade9",
+  "output_sha256": "0c6fe1940a49de7befa92b386f3dbe72af4970a9f4cc02880440c1bbcaf75b5d",
+  "title": "为长时间运行的智能体构建有效的运行框架",
+  "original_title": "Effective harnesses for long-running agents",
+  "kind": "blog",
+  "date": "2025-11-26",
+  "source_status": "article_html",
+  "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+  "chunks": 5,
+  "protected_spans": 25,
+  "source_characters": 14605,
+  "translated_characters": 6704,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:28:06.977584+00:00"
+}

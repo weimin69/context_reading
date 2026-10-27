@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2025-09-29-ReasoningBank-Scaling-Agent-Self-Evolving-with-Reasoning-Memory-24293fd5.md",
+  "file": "papers/2025-09-29-ReasoningBank-Scaling-Agent-Self-Evolving-with-Reasoning-Memory-24293fd5.md",
+  "source_sha256": "8c4c8f7f64947a9a44665dc2664c409570b382e7c075a139dbd693de6b86adb8",
+  "output_sha256": "75428057c7d8b779e1815869a8bbcf1e54cc30aab14bb1a6d6c9bc651f9bb769",
+  "title": "ReasoningBank：借助推理记忆扩展智能体的自我演化能力",
+  "original_title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory",
+  "kind": "paper",
+  "date": "2025-09-29",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2509.25140",
+  "chunks": 29,
+  "protected_spans": 231,
+  "source_characters": 83649,
+  "translated_characters": 42174,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:29:30.156584+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "source_file": "blogs/2025-07-02-Context-Engineering-19a502d8.md",
+  "file": "blogs/2025-07-02-Context-Engineering-19a502d8.md",
+  "source_sha256": "ed8c86354706ff5992c5b561aebc28137ec81e5b77617e6cd146fe82d011d66e",
+  "output_sha256": "b325b67d71af85dd56f0b3fa16a03531363012abd9b1e76d16d0d56ecb3ddac6",
+  "title": "上下文工程",
+  "original_title": "Context Engineering",
+  "kind": "blog",
+  "date": "2025-07-02",
+  "source_status": "article_html",
+  "url": "https://www.langchain.com/blog/context-engineering-for-agents",
+  "chunks": 7,
+  "protected_spans": 149,
+  "source_characters": 30784,
+  "translated_characters": 19667,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:29:31.902659+00:00"
+}

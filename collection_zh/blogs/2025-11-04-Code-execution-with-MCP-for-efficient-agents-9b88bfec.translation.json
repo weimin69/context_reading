@@ -1,0 +1,19 @@
+{
+  "source_file": "blogs/2025-11-04-Code-execution-with-MCP-for-efficient-agents-9b88bfec.md",
+  "file": "blogs/2025-11-04-Code-execution-with-MCP-for-efficient-agents-9b88bfec.md",
+  "source_sha256": "2e8db61e5da5b36e8b8f884dd2d992d03a6bb84011de89bb30e5b1137cac0cea",
+  "output_sha256": "6f80b7b0716586bbd0cf47a29b98b5872117e98eddf02bac5d8386415e01744d",
+  "title": "通过 MCP 执行代码，构建高效智能体",
+  "original_title": "Code execution with MCP for efficient agents",
+  "kind": "blog",
+  "date": "2025-11-04",
+  "source_status": "article_html",
+  "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+  "chunks": 4,
+  "protected_spans": 37,
+  "source_characters": 15275,
+  "translated_characters": 8932,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:28:19.822056+00:00"
+}

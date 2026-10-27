@@ -1,0 +1,19 @@
+{
+  "source_file": "blogs/2025-11-24-Introducing-advanced-tool-use-for-Claude-eafa6e2f.md",
+  "file": "blogs/2025-11-24-Introducing-advanced-tool-use-for-Claude-eafa6e2f.md",
+  "source_sha256": "922e852a1dab98bed9f2e2b8ec9297167b8e8046282a56d6d8903a2d0b3d3d3c",
+  "output_sha256": "9654b166062b35bc95f6418a08a2b9e0a7f2fef2d06d6914369389b4d9f3662c",
+  "title": "Claude 高级工具使用能力介绍",
+  "original_title": "Introducing advanced tool use for Claude",
+  "kind": "blog",
+  "date": "2025-11-24",
+  "source_status": "article_html",
+  "url": "https://www.anthropic.com/engineering/advanced-tool-use",
+  "chunks": 7,
+  "protected_spans": 57,
+  "source_characters": 26132,
+  "translated_characters": 14913,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:28:17.451390+00:00"
+}

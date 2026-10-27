@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2025-10-06-Agentic-Context-Engineering-Evolving-Contexts-for-Self-Improving-Language-Models-f789bce6.md",
+  "file": "papers/2025-10-06-Agentic-Context-Engineering-Evolving-Contexts-for-Self-Improving-Language-Models-f789bce6.md",
+  "source_sha256": "c805250c7297efe4f13e81d7c2e52421cf4e487f9b619d74be409f0000fcc517",
+  "output_sha256": "6446efeff36719474d2750ab3215862887a9e99fced932948d7402862d6bc4b1",
+  "title": "智能体上下文工程：通过演化上下文实现语言模型自我改进",
+  "original_title": "Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models",
+  "kind": "paper",
+  "date": "2025-10-06",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2510.04618",
+  "chunks": 26,
+  "protected_spans": 286,
+  "source_characters": 92152,
+  "translated_characters": 53658,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:29:15.412206+00:00"
+}

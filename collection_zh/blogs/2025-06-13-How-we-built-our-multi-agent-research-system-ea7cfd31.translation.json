@@ -1,0 +1,19 @@
+{
+  "source_file": "blogs/2025-06-13-How-we-built-our-multi-agent-research-system-ea7cfd31.md",
+  "file": "blogs/2025-06-13-How-we-built-our-multi-agent-research-system-ea7cfd31.md",
+  "source_sha256": "5c8b7a5772bf4143f0d649db794abb6d58060af30963cdc8f2a7bd96d3c555e6",
+  "output_sha256": "eb3ab3ba90c97eb922200b91be13fdc09feb7795258397e5923fb0e1cfdead9d",
+  "title": "我们如何构建多智能体研究系统",
+  "original_title": "How we built our multi-agent research system",
+  "kind": "blog",
+  "date": "2025-06-13",
+  "source_status": "article_html",
+  "url": "https://www.anthropic.com/research/multi-agent-research-system",
+  "chunks": 10,
+  "protected_spans": 30,
+  "source_characters": 27919,
+  "translated_characters": 10207,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:29:48.870768+00:00"
+}

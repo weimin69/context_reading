@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2026-08-06-DTOC-Dynamic-Tool-Output-Compression-for-Adaptive-Context-Management-in-AI-Agents-3abd6dd0.md",
+  "file": "papers/2026-08-06-DTOC-Dynamic-Tool-Output-Compression-for-Adaptive-Context-Management-in-AI-Agents-3abd6dd0.md",
+  "source_sha256": "d6e592593c8468e99446a543805818822194c1491e91c1cdbe9478000b3da22d",
+  "output_sha256": "d2b5dd2f532fd7b2bcff8e77dad2c99362c7c460ed73d37a1f3364e8b47baf56",
+  "title": "DTOC：面向 AI 智能体自适应上下文管理的动态工具输出压缩",
+  "original_title": "DTOC: Dynamic Tool Output Compression for Adaptive Context Management in AI Agents",
+  "kind": "paper",
+  "date": "2026-08-06",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2609.26121",
+  "chunks": 17,
+  "protected_spans": 170,
+  "source_characters": 49843,
+  "translated_characters": 22908,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:27:05.919626+00:00"
+}

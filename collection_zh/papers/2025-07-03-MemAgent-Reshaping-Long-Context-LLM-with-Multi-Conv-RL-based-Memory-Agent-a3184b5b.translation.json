@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2025-07-03-MemAgent-Reshaping-Long-Context-LLM-with-Multi-Conv-RL-based-Memory-Agent-a3184b5b.md",
+  "file": "papers/2025-07-03-MemAgent-Reshaping-Long-Context-LLM-with-Multi-Conv-RL-based-Memory-Agent-a3184b5b.md",
+  "source_sha256": "8d715dc129e4e1156f1c37a585b7e9870396e428b3c2114aa3847c9340685690",
+  "output_sha256": "026033e7a0590937351519c2577a3a87f706b516d5e454555143e46823cea452",
+  "title": "MemAgent：通过基于多轮对话强化学习的记忆智能体重塑长上下文大语言模型",
+  "original_title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+  "kind": "paper",
+  "date": "2025-07-03",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2507.02259",
+  "chunks": 19,
+  "protected_spans": 322,
+  "source_characters": 61895,
+  "translated_characters": 35548,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:30:00.846739+00:00"
+}

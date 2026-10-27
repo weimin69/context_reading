@@ -1,0 +1,19 @@
+{
+  "source_file": "blogs/2026-04-21-ReasoningBank-Enabling-agents-to-learn-from-experience-15e0d38d.md",
+  "file": "blogs/2026-04-21-ReasoningBank-Enabling-agents-to-learn-from-experience-15e0d38d.md",
+  "source_sha256": "54984d8f497612ccb7c887debafe382988fa11a5720e2958d225945b6109d0eb",
+  "output_sha256": "618899c6caab2bec0893b7657083fbd57f490f5750f4f0869868b4f279313a8c",
+  "title": "ReasoningBank：让智能体从经验中学习",
+  "original_title": "ReasoningBank: Enabling agents to learn from experience",
+  "kind": "blog",
+  "date": "2026-04-21",
+  "source_status": "article_html",
+  "url": "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience/",
+  "chunks": 4,
+  "protected_spans": 46,
+  "source_characters": 12179,
+  "translated_characters": 6749,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:27:37.999916+00:00"
+}

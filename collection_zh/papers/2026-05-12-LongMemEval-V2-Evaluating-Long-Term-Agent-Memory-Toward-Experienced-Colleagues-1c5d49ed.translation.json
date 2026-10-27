@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2026-05-12-LongMemEval-V2-Evaluating-Long-Term-Agent-Memory-Toward-Experienced-Colleagues-1c5d49ed.md",
+  "file": "papers/2026-05-12-LongMemEval-V2-Evaluating-Long-Term-Agent-Memory-Toward-Experienced-Colleagues-1c5d49ed.md",
+  "source_sha256": "001fbe5440aa846b4d2f38eecef8b787f1e878f543bcba2be505f7adc7b66d0a",
+  "output_sha256": "9bacd7de06a7c309ae5b03edafed961553d253e1167af96782f9067b46dd2ee3",
+  "title": "LongMemEval-V2：评估智能体长期记忆，迈向经验丰富的协作伙伴",
+  "original_title": "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues",
+  "kind": "paper",
+  "date": "2026-05-12",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2605.12493",
+  "chunks": 32,
+  "protected_spans": 230,
+  "source_characters": 111666,
+  "translated_characters": 60982,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:28:02.604213+00:00"
+}

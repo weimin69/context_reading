@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2026-08-06-Towards-Reliable-Context-Compression-for-Long-Horizon-Agents-An-Empirical-Study-of-Execution-Instabi-d88aafae.md",
+  "file": "papers/2026-08-06-Towards-Reliable-Context-Compression-for-Long-Horizon-Agents-An-Empirical-Study-of-Execution-Instabi-d88aafae.md",
+  "source_sha256": "0967640ddd78ae87aba70e8be763195e005100f9f4842cb55fa2aa8c2bcdb7f6",
+  "output_sha256": "891e03106f1bd8faddb47ea8162645da91c90ced331e3b8bc0a46ce37fadea73",
+  "title": "迈向长程智能体的可靠上下文压缩：执行不稳定性的实证研究",
+  "original_title": "Towards Reliable Context Compression for Long-Horizon Agents: An Empirical Study of Execution Instability",
+  "kind": "paper",
+  "date": "2026-08-06",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2608.06503",
+  "chunks": 44,
+  "protected_spans": 290,
+  "source_characters": 130508,
+  "translated_characters": 83530,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:27:07.471441+00:00"
+}

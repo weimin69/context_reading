@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2026-03-10-Context-Engineering-From-Prompts-to-Corporate-Multi-Agent-Architecture-a30ee011.md",
+  "file": "papers/2026-03-10-Context-Engineering-From-Prompts-to-Corporate-Multi-Agent-Architecture-a30ee011.md",
+  "source_sha256": "97bfad1220322db4663d15a14f4ebdeb48a5fe97caa552f93daa607f6754a555",
+  "output_sha256": "c6572bc83caccf97d6820a4982772087f456dbc36dbde6fec9e994dd42114a8c",
+  "title": "上下文工程：从提示词到企业多智能体架构",
+  "original_title": "Context Engineering: From Prompts to Corporate Multi-Agent Architecture",
+  "kind": "paper",
+  "date": "2026-03-10",
+  "source_status": "abstract_only",
+  "url": "https://arxiv.org/abs/2603.09619",
+  "chunks": 1,
+  "protected_spans": 10,
+  "source_characters": 2247,
+  "translated_characters": 1015,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:27:39.519715+00:00"
+}

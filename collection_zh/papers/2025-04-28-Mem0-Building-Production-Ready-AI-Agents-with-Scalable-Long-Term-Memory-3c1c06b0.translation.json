@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2025-04-28-Mem0-Building-Production-Ready-AI-Agents-with-Scalable-Long-Term-Memory-3c1c06b0.md",
+  "file": "papers/2025-04-28-Mem0-Building-Production-Ready-AI-Agents-with-Scalable-Long-Term-Memory-3c1c06b0.md",
+  "source_sha256": "33e3a8ebd16624c5f57e9d3a3afc88c5076343aaef73e85f8b66ae571bfd3297",
+  "output_sha256": "254497b64f08b98b2e62729018f7bab515e6882b892d2a37c32706e33641327a",
+  "title": "Mem0：利用可扩展长期记忆构建可用于生产环境的 AI 智能体",
+  "original_title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+  "kind": "paper",
+  "date": "2025-04-28",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2504.19413",
+  "chunks": 27,
+  "protected_spans": 207,
+  "source_characters": 72605,
+  "translated_characters": 30835,
+  "engine": "google-zh-CN-v5",
+  "format_version": 1,
+  "completed_at": "2026-10-26T11:26:12.009006+00:00"
+}

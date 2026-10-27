@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2026-07-23-Agentic-Context-Management-Solving-Agent-Memory-and-Cost-by-Treating-Them-as-Lifecycle-and-Architect-d1475184.md",
+  "file": "papers/2026-07-23-Agentic-Context-Management-Solving-Agent-Memory-and-Cost-by-Treating-Them-as-Lifecycle-and-Architect-d1475184.md",
+  "source_sha256": "b800b36501bb11f7908d9b66628a8add59ecff95ddb6bc9a05e19ea13a2790b6",
+  "output_sha256": "9672be51525883b95fbbd900c35ce8c8852df3f4ec492fe9e80630313de20907",
+  "title": "智能体上下文管理：从生命周期与架构视角解决智能体记忆和成本问题",
+  "original_title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
+  "kind": "paper",
+  "date": "2026-07-23",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2607.21503",
+  "chunks": 24,
+  "protected_spans": 77,
+  "source_characters": 68036,
+  "translated_characters": 27784,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:27:10.941927+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "source_file": "blogs/2025-12-04-Context-Engineering-for-AI-Agents-Part-2-4fad5189.md",
+  "file": "blogs/2025-12-04-Context-Engineering-for-AI-Agents-Part-2-4fad5189.md",
+  "source_sha256": "82c5e41e3719e408eb93e7922011c24022ee1cee57a3956343637445b4eedcdd",
+  "output_sha256": "d65471985601432880cf6c601c217803081bd1a6ec64d223a841302f82d1d19d",
+  "title": "AI 智能体上下文工程：第二部分",
+  "original_title": "Context Engineering for AI Agents: Part 2",
+  "kind": "blog",
+  "date": "2025-12-04",
+  "source_status": "article_html",
+  "url": "https://www.philschmid.de/context-engineering-part-2",
+  "chunks": 4,
+  "protected_spans": 26,
+  "source_characters": 10382,
+  "translated_characters": 4468,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:28:04.094321+00:00"
+}

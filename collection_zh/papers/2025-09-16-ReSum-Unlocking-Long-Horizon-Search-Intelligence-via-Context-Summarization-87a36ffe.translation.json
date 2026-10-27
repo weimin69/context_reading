@@ -1,0 +1,19 @@
+{
+  "source_file": "papers/2025-09-16-ReSum-Unlocking-Long-Horizon-Search-Intelligence-via-Context-Summarization-87a36ffe.md",
+  "file": "papers/2025-09-16-ReSum-Unlocking-Long-Horizon-Search-Intelligence-via-Context-Summarization-87a36ffe.md",
+  "source_sha256": "c49a5eb59c073a22ce4ffe42ccd1d74ec738a8ef275cfdb6252d4b5f4b676422",
+  "output_sha256": "f4f2d4371c44669809d5c756c316a0b28ea2adf7e8f93ee6ad3c3eed728336ad",
+  "title": "ReSum：通过上下文摘要释放长程搜索智能",
+  "original_title": "ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization",
+  "kind": "paper",
+  "date": "2025-09-16",
+  "source_status": "full_text_html",
+  "url": "https://arxiv.org/abs/2509.13313",
+  "chunks": 34,
+  "protected_spans": 434,
+  "source_characters": 106900,
+  "translated_characters": 52799,
+  "engine": "google-zh-CN-v5",
+  "format_version": 2,
+  "completed_at": "2026-10-26T11:29:28.124187+00:00"
+}
